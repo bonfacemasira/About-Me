@@ -26,6 +26,12 @@
         android:inputType="text|textPersonName"
         android:textAlignment="center" />
 
+    <Button
+        android:id="@+id/done_btn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/done" />
+
     <ImageView
         android:id="@+id/star_image"
         android:layout_width="match_parent"
